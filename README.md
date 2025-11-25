@@ -12,10 +12,10 @@ Clone the repository, and set your Stata directory to the repository folder.  Th
    - ssc install statastates
 
 ## Output
-- tables/baselinetestsbea9.tex (Table 4)
+- tables/baselinetestsbea.tex (Table 4)
 - tables/baselinetestsbea_interact_intertable (Table 5)
 - tables/ferror_abs_tests (Table 6)
-- tables/baselinetestsferror9 (Table 12)
+- tables/baselinetestsferror (Table 12)
 - tables/psid_consumption_sensitivity_iv (Table 13)
 - tables/psid_income_sensitivity_iv (Table 14)
 - graphs/income_decile_coefficients_felag.png (Figure 7a)
