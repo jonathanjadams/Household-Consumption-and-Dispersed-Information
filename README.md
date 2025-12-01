@@ -1,6 +1,6 @@
 # Household-Consumption-and-Dispersed-Information
 
-This repository contains replication code for the empirical analysis in _Household Consumption and Dispersed Information (2024 JME)_
+This repository contains replication code for the empirical analysis in [_Household Consumption and Dispersed Information (2024 JME)_](https://www.sciencedirect.com/science/article/pii/S030439322400045X)
 
 ## Instructions:
 Clone the repository, and set your Stata directory to the repository folder.  Then run **sce analysis.do** which will pull from the data folder, and produce tables.  Then run **sce figures.do** which will produce figures.
